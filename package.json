@@ -1,0 +1,11 @@
+{
+  "name": "removeeventlisteners",
+  "version": "1.0.0",
+  "description": "Extends the Element object to add a functionality to remove all event listeners",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Foskolos",
+  "license": "ISC"
+}
